@@ -1,6 +1,6 @@
 # 🧠 EasAlgo - Daily DSA Practice
 
-Welcome to **EasAlgo** — a curated collection of daily **Data Structures and Algorithms (DSA)** problems with well-explained solutions written in **Java**. This repository is built to help me (and you!) stay consistent with problem-solving and improve core programming skills.
+Welcome to **EasAlgo** — a curated collection of daily **Data Structures and Algorithms (DSA)** problems with optimal solutions written in **Java**. This repository is built to help me (and you!) stay consistent with problem-solving and improve core programming skills.
 
 ---
 
